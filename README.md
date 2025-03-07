@@ -80,4 +80,4 @@ Join our growing community:
 [Discord]（Coming Soon）
 
 📝 License
-POKeINK.AI © 2024. All rights reserved.
+POKeINK.AI © 2025. All rights reserved.
