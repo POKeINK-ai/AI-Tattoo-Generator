@@ -1,9 +1,9 @@
-# 🎨 POKeINK.AI - AI Tattoo Generator
-
 <div align="center">
   
-  ![pokeink-logo](https://github.com/user-attachments/assets/a5fbaca4-a71a-42d9-88da-df91f6e73dfd)
+# 🎨 POKeINK.AI - AI Tattoo Generator
 
+[![pokeink-hero-section](https://github.com/user-attachments/assets/a8fbcc09-1478-41fe-bff9-1b3a497d8edd)](https://www.pokeink.ai/)
+  
   **Transform your tattoo ideas into reality with the most advanced AI Tattoo Generator**
 
   [![Website](https://img.shields.io/badge/Website-POKeINK.AI-blue?style=for-the-badge&logo=internet-explorer)](https://pokeink.ai)
